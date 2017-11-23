@@ -1,6 +1,6 @@
-# Project Title
+# Gestion de finanzas personales
 
-One Paragraph of project description goes here
+Principalmente
 
 ## Getting Started
 
